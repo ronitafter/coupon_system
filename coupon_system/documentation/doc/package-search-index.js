@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"coupons.beans"},{"l":"coupons.dao"},{"l":"coupons.enums"},{"l":"coupons.exceptions"},{"l":"coupons.facades"},{"l":"coupons.test"},{"l":"coupons.utils"},{"l":"job"}];updateSearchResults();
